@@ -1,0 +1,3 @@
+Pop() -> Only deletes the top elements (does not return the element)
+Top() -> Return the top element 
+push() -> Add the element to the top of the stack
